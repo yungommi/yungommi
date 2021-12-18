@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @yungommi
-- 👀 I’m interested in engineering, mathematics...
-- 🌱 I’m currently learning semicondoctor, programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 jungk0419@gmail.com
 
 
