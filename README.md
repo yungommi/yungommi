@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @yungommi
+- Munkyung Jung 정문경 (99.04.19)
 - 📫 jungk0419@gmail.com
+- https://yungommi.github.io/my_homepage/
+- https://velog.io/@yungommi
+- frontend 공부중
+- python javascript nodejs react
+- 
 
 
 <!---
