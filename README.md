@@ -1,6 +1,6 @@
  -👋🏻  hi! im @yungommi
  
- -🇰🇷 Munkyung Jung 정문경(99.04.19
+ -🇰🇷 Munkyung Jung 정문경(99.04.19)
  
  -🎓  Yonsei Universitiy Material Science & Engineering undergraduate
  
