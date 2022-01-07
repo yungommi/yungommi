@@ -1,15 +1,16 @@
  -👋🏻  hi! im @yungommi
  
- -👩🏻  Munkyung Jung (99.04.19)🇰🇷
+ -🇰🇷 Munkyung Jung 정문경(99.04.19
  
  -🎓  Yonsei Universitiy Material Science & Engineering undergraduate
  
  -📮  jungk0419@gmail.com 
  <a href="mailto:jungk0419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungk0419@gmail.com"/></a>
  
- -📔  
- <a href="https://velog.io/@yungommi"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yungommi"/></a>
-  
+ -<a href="https://velog.io/@yungommi"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yungommi"/></a> https://velog.io/@yungommi
+ 
+ -<a href="https://yungommi.github.io/my_homepage/"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yungommi.github.io/my_homepage/"/></a> https://yungommi.github.io/my_homepage/
+
   
   📖 📚 👾 🖥 👩🏻‍💻
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
