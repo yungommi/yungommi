@@ -20,3 +20,6 @@
    
    
    -currently studying : react javascript ...
+
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yungommi)](https://github.com/anuraghazra/github-readme-stats)
