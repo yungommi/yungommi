@@ -8,7 +8,7 @@
  
  -<a href="https://velog.io/@yungommi"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yungommi"/></a>  https://velog.io/@yungommi
  
- -<a href="https://yungommi.github.io/my_homepage/"><img src="https://img.shields.io/badge/-MYHOMEPAGE-ff69b4&link=https://yungommi.github.io/my_homepage/"/></a>  https://yungommi.github.io/my_homepage/
+ -<a href="https://yungommi.github.io/my_homepage/"><img src="https://img.shields.io/badge/-MYHOMEPAGE-pink&link=https://yungommi.github.io/my_homepage/"/></a>  https://yungommi.github.io/my_homepage/
 
   
   📖 📚 👾 🖥 👩🏻‍💻
