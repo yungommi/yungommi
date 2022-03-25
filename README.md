@@ -8,7 +8,8 @@
  
  -<a href="https://velog.io/@yungommi"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yungommi"/></a>  https://velog.io/@yungommi
  
- -<a href="https://yungommi.github.io/my_homepage/"><img src="https://img.shields.io/badge/-MYHOMEPAGE-pink"/></a>  https://yungommi.github.io/my_homepage/
+ -<a href="https://yungommi.github.io/my_homepage/"><img src="https://img.shields.io/badge/-MYHOMEPAGE-pink"/></a> 
+ https://munkyungjung.vercel.app/
 
   
   👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻  
@@ -18,9 +19,6 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
    
-   
-   -currently studying : react javascript ...
-
 
 | <a href="https://github.com/yungommi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yungommi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="YUNGOMMI's github stats" /></a> | <a href="https://github.com/yungommi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungommi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
