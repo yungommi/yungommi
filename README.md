@@ -1,9 +1,9 @@
 
- -🇰🇷 Munkyung Jung 정문경(99.04.19)
+ -Munkyung Jung 정문경
  
- -🎓  Yonsei Universitiy Material Science & Engineering undergraduate
+ -Yonsei Univ
  
- -<a href="mailto:jungk0419@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungk0419@gmail.com"/></a>  jungk0419@gmail.com 
+ -jungk0419@gmail.com 
  
  -<a href="https://velog.io/@yungommi"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yungommi"/></a>  https://velog.io/@yungommi
  
